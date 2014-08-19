@@ -12,7 +12,7 @@ Declare this library as a dependency in `package.json`:
 
 ~~~~
   "dependencies": {
-    "appengine": "git+http://github.com:GoogleCloudPlatform/appengine-nodejs.git",
+    "appengine": "git://github.com/GoogleCloudPlatform/appengine-nodejs.git",
   }
 ~~~~
 
